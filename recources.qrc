@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bg.png</file>
+        <file>images/cross_large.png</file>
+        <file>images/cross_small.png</file>
+        <file>images/zero_large.png</file>
+        <file>images/zero_small.png</file>
+        <file>Roboto-Medium.ttf</file>
+        <file>Roboto-MediumItalic.ttf</file>
+    </qresource>
+</RCC>
